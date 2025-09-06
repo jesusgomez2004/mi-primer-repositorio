@@ -1,2 +1,2 @@
-# mi-primer-README
+# Mi primer README
 mi primer repositorio maldicion hermano
